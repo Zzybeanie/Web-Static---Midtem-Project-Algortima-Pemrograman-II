@@ -1,6 +1,5 @@
-# Web-Static---Midtem-Project-Algortima-Pemrograman-II
+# Static Website for Midterm Project
 
-![Logo](assets/logo.png)
 
 ## Overview
 
